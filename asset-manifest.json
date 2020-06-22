@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jcai8649/cattofriends/static/css/main.a7bee02a.chunk.css",
+    "main.js": "/jcai8649/cattofriends/static/js/main.228525bf.chunk.js",
+    "main.js.map": "/jcai8649/cattofriends/static/js/main.228525bf.chunk.js.map",
+    "runtime-main.js": "/jcai8649/cattofriends/static/js/runtime-main.69023afe.js",
+    "runtime-main.js.map": "/jcai8649/cattofriends/static/js/runtime-main.69023afe.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/jcai8649/cattofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ff41af6d.chunk.js": "/jcai8649/cattofriends/static/js/2.ff41af6d.chunk.js",
+    "static/js/2.ff41af6d.chunk.js.map": "/jcai8649/cattofriends/static/js/2.ff41af6d.chunk.js.map",
+    "index.html": "/jcai8649/cattofriends/index.html",
+    "precache-manifest.f2cb724b1edb1d291dfd876c83584561.js": "/jcai8649/cattofriends/precache-manifest.f2cb724b1edb1d291dfd876c83584561.js",
+    "service-worker.js": "/jcai8649/cattofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/jcai8649/cattofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.a7bee02a.chunk.css.map": "/jcai8649/cattofriends/static/css/main.a7bee02a.chunk.css.map",
+    "static/js/2.ff41af6d.chunk.js.LICENSE.txt": "/jcai8649/cattofriends/static/js/2.ff41af6d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jcai8649/cattofriends/static/media/ka1.385354ed.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69023afe.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ff41af6d.chunk.js",
+    "static/css/main.a7bee02a.chunk.css",
+    "static/js/main.228525bf.chunk.js"
+  ]
+}
