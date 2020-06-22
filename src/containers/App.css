@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Karmatic Arcade';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Karmatic Arcade'), url('ka1.woff') format('woff');
+}
+
+h1{
+    font-family: 'Karmatic Arcade';
+    font-weight: 200;
+    color: white;
+}
