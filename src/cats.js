@@ -13,7 +13,7 @@ export const cats = [
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
+    name: 'Clemenie Bauch',
     username: 'Samantha',
     email: 'Nathan@yesenia.net'
   },
